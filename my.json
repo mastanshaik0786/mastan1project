@@ -1,0 +1,46 @@
+{
+"basic":{
+"name":"Mastan Shaik",
+"phone":"8096876764",
+"photo":"ma.jpg",
+"email":"msdhoni @gmail.com"
+},
+ "education":[
+   {
+   "course":"B.tech(Computer science and engineering)",
+   "college":"Gudlavalleru engineering college",
+   "data":["2015-2019","75%","JNTU-K"]
+ },
+ {
+   "course":"Inter(MPC)",
+   "college":"chaitanya  college",
+   "data":["2013-2015","75%"]
+
+},
+{
+  "course":"ssc",
+  "college":"ZP Heigh school",
+  "data":["2013","80%"]
+}
+
+],
+"skills": [
+  {
+    "name":"Languages known",
+    "info":["c","python","java","javaScript"]
+  },
+
+  {
+    "name":"Operaring Systems",
+    "info":["Linux", "windows", "fedora", "unix"]
+  },
+  {
+    "name":"Libraries",
+    "info":["jquery" ,"Bootstrap"]
+  },
+   {
+      "name":"data bases",
+      "info":["my sql"]
+    }
+]
+}
